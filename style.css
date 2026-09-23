@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#fff7f8, #ffe6eb);
+    font-family: "Georgia", serif;
+    color: #7a2748;
+}
+
+.container {
+    max-width: 700px;
+    margin: 60px auto;
+    text-align: center;
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+h1 {
+    color: #b03060;
+    font-size: 40px;
+}
+
+h2 {
+    color: #d14d72;
+    margin-bottom: 30px;
+}
+
+h3 {
+    margin-top: 30px;
+    color: #b03060;
+}
+
+.welcome {
+    font-size: 22px;
+    font-style: italic;
+}
+
+.quote {
+    margin-top: 40px;
+    font-size: 20px;
+    color: #b85c7a;
+    font-style: italic;
+}
+
+.footer {
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: bold;
+}
